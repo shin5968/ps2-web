@@ -1,1 +1,1 @@
-# ps2-web
+# PS2 Web Emulator
